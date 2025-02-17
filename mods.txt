@@ -3,3 +3,4 @@ https://github.com/ppappiko/minecraft/releases/download/ModInstaller/cookingforb
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/jei-1.20.1-forge-15.20.0.106.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/MouseTweaks-forge-mc1.20.1-2.25.1.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/FarmersDelight-1.20.1-1.2.7.jar
+https://github.com/ppappiko/minecraft/releases/download/ModInstaller/cloth-config-11.1.136-forge.jar

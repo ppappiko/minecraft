@@ -2,3 +2,4 @@ https://github.com/ppappiko/minecraft/releases/download/ModInstaller/chat_heads-
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/cookingforblockheads-forge-1.20.1-16.0.12.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/jei-1.20.1-forge-15.20.0.106.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/MouseTweaks-forge-mc1.20.1-2.25.1.jar
+https://github.com/ppappiko/minecraft/releases/download/ModInstaller/FarmersDelight-1.20.1-1.2.7.jar

@@ -10,3 +10,4 @@ https://github.com/ppappiko/minecraft/releases/download/ModInstaller/morehitboxe
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/StorageDrawers-1.18.2-10.2.1.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/TerraBlender-forge-1.18.2-1.2.0.126.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/travelersbackpack-forge-1.18.2-7.1.49.jar
+https://github.com/ppappiko/minecraft/releases/download/ModInstaller/forge-1.18.2-40.3.0-installer.jar

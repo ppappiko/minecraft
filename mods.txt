@@ -11,3 +11,4 @@ https://github.com/ppappiko/minecraft/releases/download/ModInstaller/StorageDraw
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/TerraBlender-forge-1.18.2-1.2.0.126.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/travelersbackpack-forge-1.18.2-7.1.49.jar
 https://github.com/ppappiko/minecraft/releases/download/ModInstaller/growthcraft-trapper-1.18.2-7.0.0.jar
+https://github.com/ppappiko/minecraft/releases/download/ModInstaller/OptiFine_1.18.2_HD_U_H9.jar
